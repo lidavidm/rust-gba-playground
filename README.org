@@ -1,0 +1,1 @@
+gba.json taken from https://github.com/tbelaire/rusty-TONC
